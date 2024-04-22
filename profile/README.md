@@ -14,5 +14,5 @@ OpenCDMP is the consortium behind the management of OpenCDMP (former OpenDMP) so
 
 The cosortium consits of two legal entities:
 
-- Communication & Information Technologies Experts S.A. (CITE)
-- OpenAIRE AMKE
+- Communication & Information Technologies Experts S.A. (CITE) [ https://www.cite.gr/ ] 
+- OpenAIRE AMKE [ https://www.openaire.eu/openaire-amke ]
