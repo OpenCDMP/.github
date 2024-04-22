@@ -10,9 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-OpenCDMP is the consortium behind the management of OpenCDMP (former OpenDMP) software open source components.
-
-The cosortium consits of two legal entities:
+OpenCDMP is the consortium behind the management of OpenCDMP (former OpenDMP) software open source components, consisting of the following two legal entities:
 
 - Communication & Information Technologies Experts S.A. (CITE) [ https://www.cite.gr/ ] 
 - OpenAIRE AMKE [ https://www.openaire.eu/openaire-amke ]
