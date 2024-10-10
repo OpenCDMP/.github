@@ -18,7 +18,7 @@ OpenCDMP is a platform for the management of Research Output Planning and Compli
 
 OpenCDMP software is designed and developed by Communication & Information Technologies Experts S.A. (CITE) [ https://www.cite.gr ] with the support of OpenAIRE AMKE [ https://www.openaire.eu/openaire-amke ]. 
 
-OpenAIRE AMKE provides, operates and supports the OpenAIRE ARGOS Service [ https://argos.openaire.eu ], which is a publicly available hosted service utilising the OpenCDMP software since October 2024 (formelly being based on OpenDMP).
+OpenAIRE AMKE provides, operates and supports the OpenAIRE ARGOS Service [ https://argos.openaire.eu ], which is a publicly available hosted service utilising the OpenCDMP software since October 2024 (formelly being based on OpenDMP) and provides requirements for OpenCDMP design and development.
 
 ## Licencing
 
