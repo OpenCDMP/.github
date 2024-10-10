@@ -24,7 +24,7 @@ OpenAIRE AMKE provides, operates and supports the OpenAIRE ARGOS Service [ https
 
 OpenCDMP components provided in this repository are Free and Open Source Software (FOSS) licensed by CITE under EUPL 1.2 license [ https://joinup.ec.europa.eu/licence/european-union-public-licence-version-12-or-later-eupl ]. 
 
-Hereing provided Open Source components suffice for the operation of OpenCDMP, yet additional Closed Source components may be required for the activation of supplementary functionalities. Those are mostly provided as free-to-use software for not-for-profit purposes and can be located in well known repositories depending on the technology.
+The herein provided Open Source components suffice for the operation of OpenCDMP, yet additional Closed Source components may be required for the activation of supplementary functionalities. Those are mostly provided as free-to-use software for not-for-profit purposes and can be located in well known repositories depending on the technology.
 
 ## Funding and support
 
